@@ -25,18 +25,20 @@ Operating as a "Quasi-Investment Advisory Business," AlgoStock serves as a compr
 AlgoStock's data processing engine is driven by Python, ensuring the reliability of its recommendations. The processed data seamlessly integrates with Firebase for storage, Firestore for managing voting data, and secure Google authentication.
 
 ## InApp Images
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/8864bef2-5198-43d0-8ee4-b41d4ba043f5" height="400" alt="first">
 
-이거 gif 로 대체
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/49406457-a5b3-4ca3-a89c-5e76900a692a">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/511a8476-33ab-4cf8-9b60-fd2b6969fd09">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/28db92a7-da78-4c49-97e6-7bafbfa58202">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/d8e83e6e-988e-4473-9e5a-44b808e26fa5">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/f37a315d-3b39-42c4-99f3-209314c2f61f">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/64db7d2c-b165-4e9d-8ceb-522e40441680">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/a626bde5-c3e6-45fe-8807-5946a098e2f2">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/e992e71e-8e77-401a-a9c4-22884c82ad16">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/1d5c1e89-6b2b-4bcd-b58e-5b4d21ab2eb7">
-<img width="143" alt="image" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/6d98e7e1-a4ad-473e-9615-fdfa14e53137">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/0a11194a-2274-42ff-a445-30c1ec13747b" height="400" alt="second">
+
+<br> 
+
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/dee2e025-09e0-4337-b675-39c1b42a4a16" height="400" alt="third">
+
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/00e737a8-28d9-4bcc-a240-411dd4aee365" height="400" alt="forth">
+
+<br>
+
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/4ca9a952-3a08-44f8-817f-89f8cf495492" height="400" alt="fifth">
+
 
 ## Why AlgoStock?
 
