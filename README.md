@@ -25,19 +25,23 @@ Operating as a "Quasi-Investment Advisory Business," AlgoStock serves as a compr
 AlgoStock's data processing engine is driven by Python, ensuring the reliability of its recommendations. The processed data seamlessly integrates with Firebase for storage, Firestore for managing voting data, and secure Google authentication.
 
 ## InApp Images
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/8864bef2-5198-43d0-8ee4-b41d4ba043f5" height="400" alt="first">
-
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/0a11194a-2274-42ff-a445-30c1ec13747b" height="400" alt="second">
+<div style="text-align:center">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/8864bef2-5198-43d0-8ee4-b41d4ba043f5" height="400" alt="first">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/0a11194a-2274-42ff-a445-30c1ec13747b" height="400" alt="second">
+</div>
 
 <br> 
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/dee2e025-09e0-4337-b675-39c1b42a4a16" height="400" alt="third">
-
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/00e737a8-28d9-4bcc-a240-411dd4aee365" height="400" alt="forth">
+<div style="text-align:center">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/dee2e025-09e0-4337-b675-39c1b42a4a16" height="400" alt="third">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/00e737a8-28d9-4bcc-a240-411dd4aee365" height="400" alt="forth">
+</div>
 
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/4ca9a952-3a08-44f8-817f-89f8cf495492" height="400" alt="fifth">
+<div style="text-align:center">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/4ca9a952-3a08-44f8-817f-89f8cf495492" height="400" alt="fifth">
+</div>
 
 
 ## Why AlgoStock?
