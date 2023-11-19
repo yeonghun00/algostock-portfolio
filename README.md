@@ -22,7 +22,7 @@ Operating as a "Quasi-Investment Advisory Business," AlgoStock serves as a compr
 ## Behind the Scenes
 <img width="600" alt="스크린샷 2023-09-21 오후 8 30 20" src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/cde2a758-9c66-4a89-b735-e92ebd6e47d0">
 
-AlgoStock's data processing engine is driven by Python, ensuring the reliability of its recommendations. The processed data seamlessly integrates with Firebase for storage, Firestore for managing voting data, and secure Google authentication.
+AlgoStock's data processing engine is not only powered by Python for robust and reliable recommendations but is also hosted on a local server, providing full control and security. Leveraging the efficiency of cron jobs, the engine is set to automatically execute its tasks every weekday. This setup ensures timely and consistent data processing without the need for constant manual intervention. Furthermore, the seamless integration with Firebase for storage, Firestore for managing voting data, and secure Google authentication enhances the overall reliability and security of AlgoStock's recommendation system
 
 ## InApp Images
 <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/8864bef2-5198-43d0-8ee4-b41d4ba043f5" height="400" alt="first">
