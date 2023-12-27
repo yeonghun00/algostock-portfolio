@@ -1,7 +1,7 @@
 # algostock-portfolio
 
 <div align="center">
-  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/24147af8-5ca2-4bbf-92b7-35ec35230488" alt="AlgoStock Logo" width="300px" height="300px">
+  <img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/1462c58d-f934-4f1c-9d3a-9c9f7dc1cd36" alt="AlgoStock Logo" width="300px" height="300px">
 </div>
 
 Welcome to AlgoStock, a dynamic application that exemplifies the integration of technology and finance. Crafted solely by the proprietor of LifeDreams, this project underscores my proficiency in Flutter for the user interface, Firebase for backend operations, and Python for robust data processing.
