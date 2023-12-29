@@ -29,7 +29,7 @@ AlgoStock's data processing engine is not only powered by Python for robust and 
 <p>User signup</p>
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/662b29bc-803d-42a6-a25e-b9feacd14bf6" height="400" alt="second" loop=infinite>
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/973112f2-17f5-4b46-9d58-29729009848a" height="400" alt="second" loop=infinite>
 <p>Main page</p>
 <br>
 
