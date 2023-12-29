@@ -25,23 +25,23 @@ Operating as a "Quasi-Investment Advisory Business," AlgoStock serves as a compr
 AlgoStock's data processing engine is not only powered by Python for robust and reliable recommendations but is also hosted on a local server, providing full control and security. Leveraging the efficiency of cron jobs, the engine is set to automatically execute its tasks every weekday. This setup ensures timely and consistent data processing without the need for constant manual intervention. Furthermore, the seamless integration with Firebase for storage, Firestore for managing voting data, and secure Google authentication enhances the overall reliability and security of AlgoStock's recommendation system
 
 ## InApp Images
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/8864bef2-5198-43d0-8ee4-b41d4ba043f5" height="400" alt="first">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/27af934c-f329-4755-90b8-5f5f8f138996" height="400" alt="first">
 <p>User signup</p>
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/0a11194a-2274-42ff-a445-30c1ec13747b" height="400" alt="second">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/548ff097-a8e3-4d1f-afb4-4b0c57c81ad7" height="400" alt="second">
 <p>Main page</p>
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/dee2e025-09e0-4337-b675-39c1b42a4a16" height="400" alt="third">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/9c21d572-7efc-4344-b067-c20f669a2421" height="400" alt="third">
 <p>Market Insights</p>
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/00e737a8-28d9-4bcc-a240-411dd4aee365" height="400" alt="fourth">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/a0dfa667-178d-4ea5-a487-1d7a05891c60" height="400" alt="fourth">
 <p>My page</p>
 <br>
 
-<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/4ca9a952-3a08-44f8-817f-89f8cf495492" height="400" alt="fifth">
+<img src="https://github.com/yeonghun00/algostock-portfolio/assets/44548828/3f56e453-4a03-4e41-8802-6143e63110db" height="400" alt="fifth">
 <p>Theme customization</p>
 <br>
 
